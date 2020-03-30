@@ -6,6 +6,7 @@ class CreateCostumes < ActiveRecord::Migration[4.2]
     c.integer :size 
     c.string :image_url
   end
+  end
 end
 
 # Create a class and inherit from ActiveRecord::Migration
