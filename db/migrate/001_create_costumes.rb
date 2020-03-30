@@ -1,4 +1,8 @@
-class 
+class CreateCostumes < ActiveRecord::Migration[4.2]
+  def change
+    
+  end
+end
 
 # Create a class and inherit from ActiveRecord::Migration
 
